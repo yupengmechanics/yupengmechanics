@@ -1,10 +1,6 @@
-## Hi there I'm Yupeng Zhang!
-
-- 🏛️ Postdoctoral Researcher & Instructor at **UCLA MAE** (previously Caltech, Northwestern)
-- 🎓 PhD in Materials Science & Engineering, Texas A&M (advisor: Prof. Alan Needleman)
-- 🔬 Research: solid mechanics, computational modeling, and machine learning for materials & structures
-- 🤖 ML for mechanics: operator learning, LSTM/RNN for history-dependent materials, generative design (VAE)
-- 💻 FEA: Abaqus (VUMAT + PyTorch), Ansys, Comsol | Python, PyTorch, JAX, MATLAB, C++, Fortran
-- 📄 8+ first-author publications (JMPS, JAM, Proc. Royal Society A, Mechanics of Materials)
-- 🏆 Single PI on NSF grant NAIRR240262
-- 📬 Feel free to reach out for collaborations!
+## Hi, I'm Yupeng Zhang
+- Postdoc & Lecturer, MAE, **UCLA** | Previously: Caltech (Advisor: Kaushik Bhattacharya), Northwestern University (Advisor: Prof. Zdeněk Bažant)
+- PhD, Texas A&M (advisor: Prof. Alan Needleman)
+- Research areas: solid mechanics, multiscale modeling, damage, data-driven constitutive modeling, experimental characterization
+- Operator-based multiscale modeling, neural operator learning, LSTM for history-dependent materials, generative design (VAE)
+- Open to collaborations — feel free to reach out!
